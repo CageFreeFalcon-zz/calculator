@@ -1,4 +1,6 @@
-# calculator
+# calculator App
+
+<p align="center"><img src="./src/assets/calculator.jpg"></p>
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
