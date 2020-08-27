@@ -1,6 +1,11 @@
 # calculator App
 
+## Ui Design
 <p align="center"><img src="./src/assets/calculator.jpg"></p>
+
+## Result
+<p align="center"><img src="./src/assets/result.jpg"></p>
+
 
 ## Project setup
 ```
